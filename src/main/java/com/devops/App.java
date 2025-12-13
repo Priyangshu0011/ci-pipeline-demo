@@ -7,5 +7,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("Welcome to DevOps CI/CD Pipeline Demo");
+        System.out.println("Auto-Trigger Test Successful");
     }
 }
