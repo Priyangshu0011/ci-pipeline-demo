@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Welcome to DevOps CI/CD Pipeline Demo");
         System.out.println("Auto-Trigger Test Successful");
+        System.out.println("Docker Integration Successful");
     }
 }
